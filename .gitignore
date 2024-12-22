@@ -9,3 +9,5 @@ DbConnection.txt
 *.json
 /bin/
 /obj/
+.vs/
+*.vsidx
