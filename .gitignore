@@ -1,1 +1,11 @@
 DbConnection.txt
+*.dll
+*.pdb
+*.exe
+*.suo
+*.vshost
+*.user
+*.cache
+*.json
+/bin/
+/obj/
