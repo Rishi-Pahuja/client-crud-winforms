@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\clientapplication\\forms\\clientdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|solutionrelative:clientapplication\\forms\\clientdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\clientapplication\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|solutionrelative:clientapplication\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\clientapplication\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C93D648-C226-4194-AFAF-82854EF20A11}|ClientApplication\\ClientApplication.csproj|solutionrelative:clientapplication\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\business\\clientvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\business\\clientvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\common\\provincelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\common\\provincelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\common\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\common\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\common\\clientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\common\\clientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|c:\\users\\rishi\\source\\repos\\clientapplication\\businesslib\\common\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588466BD-D1FC-4E7B-881D-97190F8FCE6A}|BusinessLib\\BusinessLib.csproj|solutionrelative:businesslib\\common\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\Client.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Common\\Client.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\Client.cs",
+              "RelativeToolTip": "BusinessLib\\Common\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:34:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientList.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\ClientList.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Common\\ClientList.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\ClientList.cs",
+              "RelativeToolTip": "BusinessLib\\Common\\ClientList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:34:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\Province.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Common\\Province.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\Province.cs",
+              "RelativeToolTip": "BusinessLib\\Common\\Province.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:34:35.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProvinceList.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\ProvinceList.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Common\\ProvinceList.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Common\\ProvinceList.cs",
+              "RelativeToolTip": "BusinessLib\\Common\\ProvinceList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:34:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Data\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Data\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Data\\ClientRepository.cs",
+              "RelativeToolTip": "BusinessLib\\Data\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:26:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientValidation.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Business\\ClientValidation.cs",
+              "RelativeDocumentMoniker": "BusinessLib\\Business\\ClientValidation.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\BusinessLib\\Business\\ClientValidation.cs",
+              "RelativeToolTip": "BusinessLib\\Business\\ClientValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:36:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "ClientApplication\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\ClientViewModel.cs",
+              "RelativeToolTip": "ClientApplication\\ClientViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:37:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ClientApplication\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ClientApplication\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:09:38.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDialog.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\Forms\\ClientDialog.cs",
+              "RelativeDocumentMoniker": "ClientApplication\\Forms\\ClientDialog.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ClientApplication\\ClientApplication\\Forms\\ClientDialog.cs",
+              "RelativeToolTip": "ClientApplication\\Forms\\ClientDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:19:20.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

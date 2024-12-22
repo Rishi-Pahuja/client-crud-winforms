@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net7.0-windows</TargetFramework>
+		<Nullable>disable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<ApplicationDefaultFont>Segoe UI, 10pt</ApplicationDefaultFont>
+		<ForceDesignerDPIUnaware>true</ForceDesignerDPIUnaware>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\BusinessLib\BusinessLib.csproj" />
+	</ItemGroup>
+
+</Project>
