@@ -11,3 +11,5 @@ DbConnection.txt
 /obj/
 .vs/
 *.vsidx
+BusinessLib/obj/
+ClientApplication/obj/
